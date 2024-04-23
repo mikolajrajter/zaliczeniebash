@@ -1,0 +1,16 @@
+<persona>
+    <imie>Jan</imie>
+    <nazwisko>Kowalski</nazwisko>
+    <wiek>50</wiek>
+    <zawod>Inżynier</zawod>
+    <adres>
+        <ulica>Dolna 5</ulica>
+        <miasto>Warszawa</miasto>
+        <kod_pocztowy>00-000</kod_pocztowy>
+    </adres>
+    <hobby>
+        <hobby1>sport</hobby1>
+        <hobby2>spacer</hobby2>
+        <hobby3>gry</hobby3>
+    </hobby>
+</persona>
